@@ -1,0 +1,1 @@
+D:\xampp\htdocs\zakamie.new\app/views/items/show.blade.php
