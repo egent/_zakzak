@@ -1,1 +1,1 @@
-<?phpclass HomeController extends BaseController{    public function index()    {        return View::make('hello');    }    public function setPrices()    {    }}
+<?phpclass HomeController extends BaseController{    public function index()    {        return View::make('hello');    }    public function setPrices()    {    }}
